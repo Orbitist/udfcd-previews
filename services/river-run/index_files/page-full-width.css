@@ -1,0 +1,9 @@
+.nk-awb {
+  padding: 200px 0;
+}
+
+.nk-awb h1, .nk-awb h2, .nk-awb h3, .nk-awb h4 {
+  color: white;
+  background-color: rgba(0,0,0,0.4);
+  padding: 30px;
+}
